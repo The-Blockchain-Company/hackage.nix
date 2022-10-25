@@ -13,10 +13,10 @@
       specVersion = "1.10";
       identifier = { name = "bech32"; version = "1.0.0"; };
       license = "Apache-2.0";
-      copyright = "2017 Marko Bencun, 2019 IOHK";
-      maintainer = "operations@iohk.io, erikd@mega-nerd.com";
-      author = "IOHK Engineering Team";
-      homepage = "https://github.com/input-output-hk/bech32";
+      copyright = "2017 Marko Bencun, 2019 TBCO";
+      maintainer = "devops@blockchain-company.io.io, erikd@mega-nerd.com";
+      author = "TBCO Engineering Team";
+      homepage = "https://github.com/the-blockchain-company/bech32";
       url = "";
       synopsis = "Implementation of the Bech32 cryptocurrency address format (BIP 0173).";
       description = "Implementation of the Bech32 cryptocurrency address format documented in the\nBIP (Bitcoin Improvement Proposal) 0173.";

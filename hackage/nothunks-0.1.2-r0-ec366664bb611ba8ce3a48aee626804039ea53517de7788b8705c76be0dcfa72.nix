@@ -13,9 +13,9 @@
       specVersion = "2.4";
       identifier = { name = "nothunks"; version = "0.1.2"; };
       license = "MIT";
-      copyright = "2018-2020 IOHK";
-      maintainer = "operations@iohk.io";
-      author = "IOHK";
+      copyright = "2018-2020 TBCO";
+      maintainer = "devops@blockchain-company.io.io";
+      author = "TBCO";
       homepage = "";
       url = "";
       synopsis = "Examine values for unexpected thunks";

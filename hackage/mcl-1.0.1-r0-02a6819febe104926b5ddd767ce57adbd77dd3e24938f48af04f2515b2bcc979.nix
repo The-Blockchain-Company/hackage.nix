@@ -13,7 +13,7 @@
       specVersion = "1.10";
       identifier = { name = "mcl"; version = "1.0.1"; };
       license = "BSD-3-Clause";
-      copyright = "2017 IOHK";
+      copyright = "2017 TBCO";
       maintainer = "andrzej@well-typed.com";
       author = "Andrzej Rybczak";
       homepage = "";

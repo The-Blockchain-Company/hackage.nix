@@ -15,7 +15,7 @@
       license = "MIT";
       copyright = "";
       maintainer = "stack2nix@iohk.io";
-      author = "IOHK DevOps";
+      author = "TBCO DevOps";
       homepage = "";
       url = "";
       synopsis = "Convert stack.yaml files into Nix build instructions.";
