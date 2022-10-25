@@ -13,13 +13,13 @@
       specVersion = "1.12";
       identifier = { name = "cardano-coin-selection"; version = "1.0.1"; };
       license = "Apache-2.0";
-      copyright = "2020 IOHK";
-      maintainer = "operations@iohk.io";
-      author = "IOHK";
-      homepage = "https://github.com/input-output-hk/cardano-coin-selection#readme";
+      copyright = "2020 TBCO";
+      maintainer = "devops@blockchain-company.io.io";
+      author = "TBCO";
+      homepage = "https://github.com/the-blockchain-company/cardano-coin-selection#readme";
       url = "";
       synopsis = "Algorithms for coin selection and fee balancing.";
-      description = "Please see the README on GitHub at <https://github.com/input-output-hk/cardano-coin-selection>";
+      description = "Please see the README on GitHub at <https://github.com/the-blockchain-company/cardano-coin-selection>";
       buildType = "Simple";
       };
     components = {

@@ -14,7 +14,7 @@
       identifier = { name = "libarchive"; version = "1.0.5.0"; };
       license = "BSD-3-Clause";
       copyright = "Copyright: (c) 2018-2019 Vanessa McHale";
-      maintainer = "vanessa.mchale@iohk.io";
+      maintainer = "rmourey_jr@blockchain-company.io";
       author = "Vanessa McHale";
       homepage = "";
       url = "";

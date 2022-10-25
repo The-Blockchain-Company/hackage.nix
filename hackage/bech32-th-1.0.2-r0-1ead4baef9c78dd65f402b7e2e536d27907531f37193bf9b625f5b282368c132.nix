@@ -13,10 +13,10 @@
       specVersion = "1.10";
       identifier = { name = "bech32-th"; version = "1.0.2"; };
       license = "Apache-2.0";
-      copyright = "2020 IOHK";
-      maintainer = "operations@iohk.io, erikd@mega-nerd.com, jonathan.knowles@iohk.io";
-      author = "IOHK Engineering Team";
-      homepage = "https://github.com/input-output-hk/bech32";
+      copyright = "2020 TBCO";
+      maintainer = "devops@blockchain-company.io.io, erikd@mega-nerd.com, jonathan.knowles@iohk.io";
+      author = "TBCO Engineering Team";
+      homepage = "https://github.com/the-blockchain-company/bech32";
       url = "";
       synopsis = "Template Haskell extensions to the Bech32 library.";
       description = "Template Haskell extensions to the Bech32 library, including\nquasi-quoters for compile-time checking of Bech32 string\nliterals.";

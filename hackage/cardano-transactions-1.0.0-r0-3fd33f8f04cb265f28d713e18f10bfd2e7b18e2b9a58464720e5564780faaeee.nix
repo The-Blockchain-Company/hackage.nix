@@ -13,13 +13,13 @@
       specVersion = "1.12";
       identifier = { name = "cardano-transactions"; version = "1.0.0"; };
       license = "Apache-2.0";
-      copyright = "2020 IOHK";
-      maintainer = "operations@iohk.io";
-      author = "IOHK";
-      homepage = "https://github.com/input-output-hk/cardano-transactions#readme";
+      copyright = "2020 TBCO";
+      maintainer = "devops@blockchain-company.io.io";
+      author = "TBCO";
+      homepage = "https://github.com/the-blockchain-company/cardano-transactions#readme";
       url = "";
       synopsis = "Library utilities for constructing and signing Cardano transactions.";
-      description = "Please see the README on GitHub at <https://github.com/input-output-hk/cardano-transactions>";
+      description = "Please see the README on GitHub at <https://github.com/the-blockchain-company/cardano-transactions>";
       buildType = "Simple";
       };
     components = {

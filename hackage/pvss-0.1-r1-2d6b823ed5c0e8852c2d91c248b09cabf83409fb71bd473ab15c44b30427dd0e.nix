@@ -13,10 +13,10 @@
       specVersion = "1.10";
       identifier = { name = "pvss"; version = "0.1"; };
       license = "BSD-3-Clause";
-      copyright = "2016 IOHK";
+      copyright = "2016 TBCO";
       maintainer = "vincent.hanquez@iohk.io";
       author = "Vincent Hanquez";
-      homepage = "https://github.com/input-output-hk/pvss-haskell#readme";
+      homepage = "https://github.com/the-blockchain-company/pvss-haskell#readme";
       url = "";
       synopsis = "Public Verifiable Secret Sharing";
       description = "Please see README.md";
